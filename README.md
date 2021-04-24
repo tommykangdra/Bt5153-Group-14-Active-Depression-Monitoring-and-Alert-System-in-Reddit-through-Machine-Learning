@@ -16,8 +16,8 @@ a social media depression monitoring and alert system using a combination of mac
 - **group_14_d_Monitoring System Code.ipynb**: Phase 2 Monitoring system rules
 
 ### Group 14:
-Goh Wen Wei Victor - A0067229Y
-Ken Cheah - A0218906Y
-Krishnan Ananth - A0218894M
-Tommy Kangdra - A0218866N
-Xiao Yidi - A0218962W
+- Goh Wen Wei Victor - A0067229Y
+- Ken Cheah - A0218906Y
+- Krishnan Ananth - A0218894M
+- Tommy Kangdra - A0218866N
+- Xiao Yidi - A0218962W
